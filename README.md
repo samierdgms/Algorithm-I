@@ -1,1 +1,1 @@
-# School_Homework
+# Basit ve Temel Algoritmalar 
